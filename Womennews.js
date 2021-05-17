@@ -104,8 +104,6 @@ var testCases = [
 		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211608",
 		"items": [
 			{
-				"key": "M2R5IZHF",
-				"version": 0,
 				"itemType": "newspaperArticle",
 				"creators": [
 					{
@@ -164,8 +162,6 @@ var testCases = [
 		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=205478",
 		"items": [
 			{
-				"key": "7R5QULDC",
-				"version": 0,
 				"itemType": "newspaperArticle",
 				"creators": [
 					{
@@ -194,24 +190,18 @@ var testCases = [
 						"tag": "92년생김지영"
 					},
 					{
-						"tag": "메갈리아"
+						"tag": "번아웃"
 					},
 					{
-						"tag": "고용불안"
-					},
-					{
-						"tag": "빈곤"
-					},
-					{
-						"tag": "안전비용"
+						"tag": "페미니즘"
 					}
 				],
-				"title": "[92년생 김지영③] 아직도 싸워야 한다",
+				"title": "[92년생 김지영①] 다 타버린 여성들…그래도 ‘페미니즘’",
 				"publicationTitle": "여성신문",
 				"section": "사회",
-				"date": "2021-01-04T09:29:00+09:00",
-				"url": "http://www.womennews.co.kr/news/articleView.html?idxno=205665",
-				"abstractNote": "여성신문이 2021년 신년 기획 을 통해 이 시대 여성들의 목소리를 싣습니다. 82년생, 92년생, 00년생 여성의 이야기를 들으며 ‘젠더갈등’이라는 이름 아래 그동안 ‘한국형 백래시’가 어떻게 작동했는지에 주목했습니다. 뿐만 아니라 성평등한 세상을 만들기 위해 우리 사회가 노력해야 할 방안 등을 살펴보려 합니다.*편집자 주 : 백래시(Backlash)는 어떠한 아이디어, 행동 또는 물체에 대한 강한 반발을 뜻하는 단어로, 성평등 및 젠더 운동 등의 흐름에 반대하는 운동 및 세력을 ‘백래시’라 부른다. (출처 :",
+				"date": "2020-12-31T15:25:00+09:00",
+				"url": "http://www.womennews.co.kr/news/articleView.html?idxno=205478",
+				"abstractNote": "“저는 단 한 명의 여성도 구하지 못할 거 같아요.” 2019년 겨울, 여성 연예인 설리와 구하라 씨가 안타깝게 목숨을 끊었을 때 열린 추모제에서 스스로를 페미니스트라고 밝힌 한 여성이 고백하듯 말했다. 그는 2015년 강남역 여성 살해사건을 통해 페미니즘을 알았다고 한다. 페미니즘은 마치 구원과도 같았다.",
 				"language": "ko",
 				"libraryCatalog": "www.womennews.co.kr",
 				"notes": [],
