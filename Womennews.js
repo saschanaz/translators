@@ -104,40 +104,48 @@ var testCases = [
 		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211608",
 		"items": [
 			{
+				"key": "M2R5IZHF",
+				"version": 0,
 				"itemType": "newspaperArticle",
 				"creators": [
 					{
 						"creatorType": "author",
-						"lastName": "이세아 기자",
+						"lastName": "김규희 기자",
 						"fieldMode": 1
 					}
 				],
 				"tags": [
 					{
-						"tag": "강제추행"
+						"tag": "이선호"
 					},
 					{
-						"tag": "보복인사"
+						"tag": "평택항"
 					},
 					{
-						"tag": "서지현"
+						"tag": "참사"
 					},
 					{
-						"tag": "성추행"
+						"tag": "아버지"
 					},
 					{
-						"tag": "안태근"
+						"tag": "이재훈"
 					},
 					{
-						"tag": "직권남용"
+						"tag": "청년"
+					},
+					{
+						"tag": "인터뷰"
+					},
+					{
+						"tag": "산재"
 					}
 				],
-				"title": "공소시효 지나서...서지현 검사, ‘성추행·보복 인사’ 안태근 손배소 1심 패소",
+				"title": "‘평택항 참사’ 이선호 아버지 “청년들, 위험한 일 안 할 권리 있다”",
 				"publicationTitle": "여성신문",
 				"section": "사회",
-				"date": "2021-05-14T18:07:33+09:00",
-				"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211554",
-				"abstractNote": "서지현 수원지검 성남지청 부부장검사가 성추행, 보복 인사 등을 겪었다며 안태근 전 검사장(전 법무부 검찰국장)과 국가를 상대로 낸 손해배상 청구 소송 1심에서 패소했다.서울중앙지법 민사93단독(김대원 판사)는 14일 서 검사가 제기한 손해배상 청구를 기각했다. 성추행에 대해서는 “강제추행이 있었더라도 사건 당시인 2010년 10월 이미 가해자를 현실적이고 구체적으로 인식했다고 보인다”며 “사건 후 3년이 훨씬 지나서 소송을 제기해 이미 시효가 지났다”고 밝혔다. 민법 제766조에 따라 불법행위로 인한 손해배상을 청구하려면 피해자가",
+				"date": "2021-05-17T15:16:00+09:00",
+				"url": "http://www.womennews.co.kr/news/articleView.html?idxno=2116081",
+				"abstractNote": "“우리 아들은 그곳이 얼마나 위험한지 알았으면 안 들어갔을 겁니다. 청년들에게 ‘위험한 일을 안 할 권리가 있다’고 말해주고 싶습니다. 시키는 대로 다 하면 안 됩니다. 위험한 일은 피해야 합니다.”아들이 일하다가 300kg 철판에 깔렸다. 처음 해보는 일이었는데, 안전교육, 안전장비, 안전관리자 아무것도 없었다. 사측은 사고 이후 119에 바로 신고하지 않고 윗선에 보고했다.‘평택항 참사’로 세상을 떠난 고(故) 이선호(23)씨 아버지 이재훈씨를 13일 경기도 평택시 안중백병원 장례식장에서 만났다. 그는 “기업들은 오로지 비용 절",
 				"language": "ko",
 				"libraryCatalog": "www.womennews.co.kr",
 				"notes": [],
@@ -156,6 +164,8 @@ var testCases = [
 		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=205665",
 		"items": [
 			{
+				"key": "7R5QULDC",
+				"version": 0,
 				"itemType": "newspaperArticle",
 				"creators": [
 					{
