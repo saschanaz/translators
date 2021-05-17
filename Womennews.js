@@ -161,7 +161,7 @@ var testCases = [
 	},
 	{
 		"type": "web",
-		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211554",
+		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=205478",
 		"items": [
 			{
 				"key": "7R5QULDC",
