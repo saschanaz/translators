@@ -101,7 +101,7 @@ function scrape(doc, url) {
 var testCases = [
 	{
 		"type": "web",
-		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211608",
+		"url": "http://www.womennews.co.kr/news/articleView.html?idxno=211554",
 		"items": [
 			{
 				"key": "M2R5IZHF",
